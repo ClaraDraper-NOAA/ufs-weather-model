@@ -201,7 +201,7 @@
     kice = 9
     ldiag3d = .false.
     lheatstrg = @[LHEATSTRG]
-    lndp_each_step = .true.
+    lndp_model_type = 2
     lndp_type = 0
     lradar = .true.
     lsm = 3

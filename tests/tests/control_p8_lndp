@@ -155,6 +155,7 @@ export INPUT_NML=cpld_control.nml.IN
 
 #lndp settings
 export LNDP_TYPE=2
+export LNDP_MODEL_TYPE=1
 export N_VAR_LNDP=1
 export LNDP_VAR_LIST="'vgf',"
 export LNDP_PRT_LIST='0.1,'
